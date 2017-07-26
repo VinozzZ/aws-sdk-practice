@@ -1,0 +1,22 @@
+AlexaMeetupNumbersIntent how many cities have alexa meetups
+AlexaMeetupNumbersIntent how many alexa meetups are there
+
+AlexaMeetupCityCheckIntent if {USCity} has an alexa meetup
+AlexaMeetupCityCheckIntent if {EuropeanCity} has an alexa meetup
+AlexaMeetupCityCheckIntent dose {EuropeanCity} has an alexa meetup
+AlexaMeetupCityCheckIntent dose {USCity} has an alexa meetup
+AlexaMeetupCityCheckIntent check {EuropeanCity} has an alexa meetup
+AlexaMeetupCityCheckIntent check {USCity} has an alexa meetup
+
+AlexaMeetupOrgniserCheckIntent whos the orgniser of the {USCity} alexa meetup
+AlexaMeetupOrgniserCheckIntent whos the orgniser of the {EuropeanCity} alexa meetup
+AlexaMeetupOrgniserCheckIntent who is the orgniser of the {USCity} alexa meetup
+AlexaMeetupOrgniserCheckIntent who is the orgniser of the {EuropeanCity} alexa meetup
+AlexaMeetupOrgniserCheckIntent tell me the orgniser of the {EuropeanCity} alexa meetup
+AlexaMeetupOrgniserCheckIntent tell me the orgniser of the {USCity} alexa meetup
+
+NameCaptureIntent my name is {USFirstName}
+NameCaptureIntent my name is {UKFirstName}
+
+CountryCaptureIntent i am from {Country}
+CountryCaptureIntent i'm from {Country}
